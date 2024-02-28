@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello world! 👋
+I’m currently pursuing a degree that emphasizes Python and R programming languages, natural language processing, and neuroscience. 
+How to reach me: contact@prusrafal.com
 
 <!--
 **prusrafal/prusrafal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
