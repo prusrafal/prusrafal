@@ -1,4 +1,4 @@
-<h1 ">Hey, I'm Rafał!</h1>
+<h1 ">Hey, I'm Rafal!</h1>
 
 - 📈 I’m currently working on: **Harvard Univeristy CS50's Programming with Python Course**, **Aarhus Univeristy CogSci MSc Degree**, and **DataCamp Python Track**
 
